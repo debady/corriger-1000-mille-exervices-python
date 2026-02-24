@@ -1,0 +1,58 @@
+Explications :
+
+Nous utilisons la bibliothèque pyttsx3 pour la synthèse vocale.
+pyttsx3 est une bibliothèque de conversion texte-parole en Python. Elle fonctionne hors ligne et est 
+compatible avec les versions Python 2 et 3 et plus . Une fois installée, vous pouvez l’utiliser pour créer des applications de synthèse vocale.
+
+Lorsque l’utilisateur clique sur le bouton “Saisir du texte”, une boîte de dialogue de saisie s’affiche.
+Le texte saisi est affiché dans la console et lu à haute voix par le moteur de synthèse vocale.
+
+
+--->Mais il faut s'assurer d'avoir installer python et que la liaison dans la variable d'environnement est bien fait
+--->SURTOUT avoir installer la bibliothèque pyttsx3 
+ou dans le cas contrait ouvrir un terminal et taper cette commande
+
+pip install pyttsx3
+
+Si vous rencontrez des erreurs telles que “No module named win32com.client”,
+ “No module named win32” ou “No module named win32api”, vous devrez également installer le package pypiwin32
+
+
+
+ -------------------------------------------------------------
+ CAS OU VOUS AVEZ TOUJOURS DES DIFFICULTES
+ --------------------------------------------------------
+
+ 
+Vérifiez que Python est correctement installé :
+Assurez-vous que Python est installé sur votre système. Vous pouvez vérifier cela en ouvrant une invite de commande
+ (ou terminal) et en tapant python --version. Si Python est installé, vous verrez la version affichée. Sinon, vous devrez installer Python.
+Ajoutez Python au PATH :
+Si Python est installé, mais que vous obtenez toujours l’erreur, il est possible que le chemin d’accès à Python 
+ne soit pas correctement configuré. Pour résoudre cela, vous pouvez ajouter Python au PATH système :
+Sur Windows :
+
+Allez dans les propriétés système (clic droit sur “Ce PC” ou “Ordinateur”, puis sélectionnez “Propriétés”).
+Cliquez sur “Paramètres système avancés”.
+Dans l’onglet “Avancé”, cliquez sur “Variables d’environnement”.
+Sous “Variables système”, recherchez la variable “Path” et cliquez sur “Modifier”.
+Ajoutez le chemin d’accès au dossier contenant l’exécutable Python (par exemple, C:\Python39\Scripts).
+
+Enregistrez les modifications et redémarrez l’invite de commande.
+Sur Linux ou macOS, le chemin d’accès à Python est généralement configuré automatiquement.
+Utilisez la commande correcte :
+
+Si vous avez correctement configuré Python, vous devriez pouvoir utiliser la commande pip. Assurez-vous de taper pip install 
+pyttsx3 dans l’invite de commande (ou terminal) et non dans l’interpréteur Python.
+Vérifiez l’orthographe :
+Assurez-vous que vous avez correctement saisi la commande. Il doit s’agir de pip install pyttsx3, sans faute de frappe.
+
+
+----------------------------
+Si vous avez des préocupation quelquonc n'exitez pas à demandé de l'aide car c'est comme ça que vous allez apprendre
+
+whatsapp :https://wa.me/+22544704854
+
+
+youtube :www.youtube.com/@NK2DCoding-City
+LES CRITIQUES SONT LES BIENVENUE ET SURTOUT FAITES UN TOUR SUR LA CHAINE YOUTUBE ET ABONNEZ-VOUS !!

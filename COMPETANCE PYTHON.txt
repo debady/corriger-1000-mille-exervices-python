@@ -1,0 +1,343 @@
+C'EST QUOI LA PROGRAMMATION ?
+POURQUOI FAIRE LA PROGRAMMATIOION
+LISTE DES LANGUAGE DE PROGRAMMATIONS LES PLUS POPULAIRE
+LES ETAPS POUR CHOISIR UN LANGUAGE DE PROGRAMMATION
+POURQUOI CHOISIR LE LANGUAGE DE PROGRAMMATION PYTHON
+COMPETANCES QUE DOIT AVOIR UN PROGRAMMEUR PYTHON
+QUEL POSTE PEUX OCCUPPER UN PROGRAMMEUR PYTHON
+POURQUOI CHOISIR NK2D CODING-CITY pour vous formez EN PYTHON
+COMMENT CETTE FORMATION COMPLETE  SERA STRUCTURER 
+
+
+----------------------------C'EST QUOI LA PROGRAMMATION ?----------------------------	
+La programmation informatique, également connue sous le nom de codage, est l’ensemble des activités qui permettent l’écriture 
+des programmes informatiques. C’est une étape importante du développement de logiciels. L’écriture d’un programme se fait dans un 
+langage de programmation. Un logiciel est un ensemble de programmes destiné à la réalisation de certaines tâches par un ou plusieurs 
+utilisateurs du logiciel. La programmation représente donc ici la rédaction du code source d’un logiciel. On utilise plutôt le terme pour 
+dénoter l’ensemble des activités liées à la création d’un logiciel et des programmes qui le composent. Cela inclut la spécification du logiciel,
+ sa conception, puis son implémentation proprement dite au
+ sens de l’écriture des programmes dans un langage de programmation bien défini, ainsi que la vérification de sa correction, etc1
+
+----------------------------POURQUOI FAIRE LA PROGRAMMATIOION ------------------
+Il y a plusieurs raisons pour lesquelles vous pourriez vouloir apprendre la programmation. Voici quelques-unes des raisons les plus courantes:
+
+Créer des applications: La programmation vous permet de créer des applications pour résoudre des problèmes ou pour divertir les gens. Vous pouvez créer
+ des applications pour les ordinateurs de bureau, les appareils mobiles, les jeux vidéo, etc.
+
+Améliorer votre employabilité: La programmation est une compétence très recherchée sur le marché du travail. En apprenant
+ à programmer, vous pouvez améliorer vos perspectives d’emploi et augmenter votre salaire potentiel.
+
+Comprendre la technologie: La programmation vous permet de mieux comprendre comment fonctionnent les ordinateurs et les 
+logiciels. Cela peut vous aider à résoudre des problèmes informatiques et à utiliser les technologies plus efficacement.
+
+Développer votre créativité: La programmation est un processus créatif qui vous permet de créer des choses nouvelles et 
+intéressantes. 
+
+Vous pouvez exprimer votre créativité en créant des applications, des jeux vidéo, des sites Web, etc.
+Apprendre une nouvelle compétence: Apprendre à programmer est un défi stimulant qui peut vous aider à développer de nouvelles
+ compétences et à améliorer votre capacité à résoudre des problèmes.
+
+
+-----------------------LES ETAPS POUR CHOISIR UN LANGUAGE DE PROGRAMMATION------------------------
+
+Définissez vos objectifs: Quel est le but de votre apprentissage? Voulez-vous créer des 
+applications Web, des applications mobiles, des jeux vidéo, des logiciels de bureau, etc.?
+Chaque domaine a ses propres langages de programmation préférés.
+
+Évaluez votre expérience: Avez-vous déjà de l’expérience en programmation? Si oui, dans quels 
+langages avez-vous travaillé? Si vous êtes débutant, il est recommandé de commencer par un langage
+ de programmation facile à apprendre.
+
+Faites des recherches: Renseignez-vous sur les différents langages de programmation disponibles et leurs 
+caractéristiques. Vous pouvez trouver des informations sur les sites Web de programmation, les forums, les blogs, etc123
+
+Essayez différents langages: Essayez différents langages de programmation pour voir lequel vous convient 
+le mieux. Vous pouvez trouver des tutoriels en ligne, des cours, des livres, etc. pour vous aider à apprendre.
+
+Rejoignez une communauté: Rejoignez une communauté de programmeurs pour obtenir de l’aide et des conseils.
+ Vous pouvez trouver des communautés en ligne, des groupes de discussion, des forums, etc123
+
+
+---------------------LISTE DES LANGUAGE DE PROGRAMMATIONS LES PLUS POPULAIRE--------------------------
+
+Il existe de nombreux langages de programmation différents. Selon une estimation, il y aurait
+ environ 6 000 langages de programmation dans le monde 1. Cependant, cette estimation peut varier 
+en fonction de la définition de ce qui constitue un langage de programmation.
+Il existe de nombreux langages de programmation différents.
+
+ Voici une liste non exhaustive de certains des langages de programmation les plus populaires:
+
+
+Python
+
+Python: un langage de programmation populaire et facile à apprendre
+ qui est utilisé dans de nombreux domaines, y compris la science des données, 
+l’apprentissage automatique, l’analyse financière, etc1.
+
+
+Java
+
+Java: un langage de programmation orienté objet qui est
+ utilisé pour développer des applications pour une variété de plates-formes,
+ y compris les ordinateurs de bureau, les appareils mobiles et les serveurs 1.
+
+
+JavaScript
+
+JavaScript: un langage de programmation de script 
+qui est utilisé pour créer des pages Web interactives et des applications Web 1.
+
+
+C++
+
+C++: un langage de programmation orienté objet qui
+ est utilisé pour développer des applications pour une variété de 
+plates-formes, y compris les ordinateurs de bureau, les jeux vidéo, les systèmes d’exploitation, etc1.
+
+
+C sharp
+
+C#: un langage de programmation orienté objeT
+t développé par Microsoft qui est utilisé pour développer des applications pour Windows et .NET 1.
+
+
+Swift
+
+Swift: un langage de programmation développé par
+ Apple pour le développement d’applications iOS, macOS, watchOS et tvOS 1.
+
+
+
+PHP
+
+PHP: un langage de programmation de script utilisé 
+pour le développement Web côté serveur 1.
+
+
+Ruby
+
+Ruby: un langage de programmation interprété qui 
+est utilisé pour développer des applications Web et des scripts 1.
+
+
+Go
+
+Go: un langage de programmation open-source développé par Google
+ qui est utilisé pour développer des applications réseau et des systèmes 1.
+
+
+R
+
+R: un langage de programmation utilisé pour la science 
+des données, l’analyse statistique et la visualisation de données 1.
+
+-------------------------POURQUOI CHOISIR LE LANGUAGE DE PROGRAMMATION PYTHON------------------
+
+Python est un langage de programmation populaire et facile à apprendre qui est utilisé dans de nombreux domaines, 
+y compris la science des données, l’apprentissage automatique, l’analyse financière, etc123. Python est également un langage de
+ programmation Open Source, orienté objet, de haut niveau. Il fut créé en 1991 par le développeur Guido Van. Il s’agit d’un 
+langage généraliste. Cela signifie qu’il peut être utilisé pour développer à peu près n’importe quoi, grâce à de nombreux outils
+ et bibliothèques. Ce langage est particulièrement populaire pour l’analyse de données et l’intelligence artificielle, mais aussi 
+pour le développement web backend et le computing scientifique. Python est aussi utilisé pour développer des outils de productivité,
+ des jeux ou des applications. Des dizaines de milliers de sites web ont été développés avec ce langage, au même titre que plusieurs
+ applications très connues comme Dropbox, Netflix ou Spotify.
+
+Python est également apprécié pour sa simplicité et sa lisibilité. Sa syntaxe est claire et concise, ce qui facilite la lecture et la
+ compréhension du code. De plus, Python dispose d’une vaste bibliothèque standard et d’un écosystème de modules tiers qui permettent 
+de développer rapidement des applications dans de nombreux domaines et sur la plupart des plateformes 1.
+
+Enfin, Python est un langage en constante évolution, avec une communauté de développeurs active et engagée. Cela signifie que de
+ nouvelles fonctionnalités et bibliothèques sont régulièrement ajoutées, ce qui permet aux développeurs de rester à jour et de continuer
+ à développer des applications innovantes
+
+----------------------COMPETANCES QUE DOIT AVOIR UN PROGRAMMEUR PYTHON-------------------
+Un programmeur Python doit posséder plusieurs compétences pour être efficace dans son travail. Voici quelques compétences clés que les programmeurs Python devraient avoir:
+
+Maîtrise de Python: Les programmeurs Python doivent avoir une connaissance approfondie de Python, y compris les
+ concepts de base, les structures de données, les fonctions, les classes, etc.
+
+Connaissance des frameworks: Les programmeurs Python doivent être familiers avec les frameworks Python tels que 
+Django,
+ Flask, 
+Pyramid, 
+
+Django: un framework Web complet pour Python qui permet de développer
+ rapidement des applications Web. Il est facile à apprendre et à utiliser, et dispose d’une grande communauté de développeurs 1.
+
+Flask: un framework Web minimaliste pour Python qui est facile à apprendre et à 
+utiliser. Il est idéal pour les petites applications Web et les prototypes 1.
+
+Pyramid: un framework Web flexible pour Python qui peut être utilisé pour développer 
+des applications Web de toutes tailles. Il est facile à apprendre et à utiliser, et dispose d’une grande communauté de développeurs 1.
+
+Bottle: un framework Web minimaliste pour Python qui est facile à apprendre et
+ à utiliser. Il est idéal pour les petites applications Web et les prototypes 1.
+
+CherryPy: un framework Web minimaliste pour Python qui est facile à apprendre et
+ à utiliser. Il est idéal pour les petites applications Web et les prototypes 1.
+
+etc. Ces frameworks permettent de développer rapidement des applications Web en
+ utilisant Python.
+
+------------------
+
+Connaissance des bases de données: Les programmeurs Python doivent être capables de travailler avec des bases de
+ données relationnelles et non relationnelles telles que MySQL, PostgreSQL, MongoDB, etc.
+
+Connaissance des outils de développement: Les programmeurs Python doivent être familiers avec les outils de 
+développement tels que Git, GitHub, PyCharm, Visual Studio Code, etc.
+
+Connaissance des tests unitaires: Les programmeurs Python doivent être capables d’écrire des tests unitaires
+ pour s’assurer que leur code fonctionne correctement.
+
+Connaissance des bibliothèques: Les programmeurs Python doivent être familiers avec les bibliothèques Python 
+telles que NumPy, Pandas, Matplotlib, etc. Ces bibliothèques sont utilisées pour l’analyse de données, la visualisation, etc.
+
+Compétences en résolution de problèmes: Les programmeurs Python doivent être capables 
+de résoudre des problèmes de manière efficace et créative.
+
+
+--------------------------QUEL POSTE PEUX OCCUPPER UN PROGRAMMEUR PYTHON---------------------
+Les programmeurs Python peuvent occuper une variété de postes dans différents domaines. Voici quelques exemples de postes que les programmeurs Python pourraient occuper:
+
+Développeur Python: Les développeurs Python sont responsables de la conception, du développement et 
+de la maintenance d’applications Python. Ils travaillent souvent en étroite collaboration avec d’autres développeurs,
+ des ingénieurs logiciels et des chefs de projet pour créer des applications qui répondent aux besoins des utilisateurs 1.
+
+Ingénieur de données: Les ingénieurs de données sont responsables de la conception, de la mise en œuvre et de la 
+maintenance de systèmes de gestion de données. Ils travaillent souvent avec des données volumineuses et complexes 
+et utilisent des outils tels que Python pour analyser et traiter ces données 2.
+
+Scientifique des données: Les scientifiques des données sont responsables de l’analyse et de l’interprétation des
+ données pour aider les entreprises à prendre des décisions éclairées. Ils utilisent souvent des outils tels que
+ Python pour analyser les données et créer des modèles prédictifs 3.
+
+Développeur Web: Les développeurs Web sont responsables de la conception, du développement et de la maintenance 
+de sites Web. Ils utilisent souvent des frameworks Python tels que Django ou Flask pour créer des sites Web dynamiques et interactifs .
+
+Développeur de jeux vidéo: Les développeurs de jeux vidéo sont responsables de la
+ conception, du développement et de la maintenance de jeux vidéo. Ils utilisent souvent des
+ langages de programmation tels que Python pour créer des jeux vidéo .
+
+
+      COMMENT LA FORMATION SERA STRUCTURER 
+
+1° CHAUQE SEMAINE DES TUTORIEL SUR LES BASES DE LA PROGRAMMATION ,LA REALISATION DES PROJETS DES EXERCIES APROFONDIR etc  AVEC LE LANGUAGE PYTHON nous ferons
+20% theorie,  et 60% pratique,20%recherche pers
+
+2° LES EXPLICATIONS dans les moindre details sur notre site web 
+3° a la fin de chaque tutoriel le code source sera disponible sur github / sur notre site web/canal whatsapp
+
+4° A LA FIN  DE LA FORMATION CHACUN SERA CAPABLE 
+-D'AVOIR UNE BASE SOLIDE EN PROGRAMMATION PYTHON 
+-AVOIR DE L'EXPERIENCE DANS LA REALISATION DES PROJEST
+-DE POUVOIR PUBLIER SONT PROPRE SITE WEB EN LIGNE 
+-MONTER ET DEVELOPPER UN PROJETS PYTHON ET LE PUBLIER SOIT SUR APPSTORE OU PLAYSTORE ?WEB
+-NOUS RELAISERONS DES PROJETS CONCRETES 
+  * comme un chatbot u
+  *une aplli de lecture de texte 
+  *de prise de photos
+   *des apllis de grattoir
+etc ETC ETC
+
+DES COUCOURS ET CHALLENGE SUR TELEGRAMME ET LE SITE WEB pour repartir avec un lot 
+chaque mercredi un tirage est effectuer sur la chaine youtube pour faire gagner un prix a la personne selectionner 
+
+LA FIN de la formation DES PERSONNES SERONT SELECTIONNER¨POUR TRAVILLER AVEC NOUS EN 
+TEMPS QUE QUE FREE-LANCEUR ET ETRE RENUMERER EN FONCTION
+DES MISSIONs QUE TU AURAS ACCCOMPLIR
+DES CONSEIL , DES TEMPLATE ,COURS PARTICULIER ,COCHING etc sur whatsapp,telegramm,et sur notre site web
+
+Table des matières
+
+Introduction
+Variables, Affichage, Listes
+Boucles et comparaisons
+Tests, Fichiers, Modules, Fonctions
+Plus sur les chaînes de caractères
+Plus sur les listes
+Plus sur les fonctions
+Dictionnaires et tuples
+Création de modules
+Expressions régulières et parsing
+Modules d’intérêt en bioinformatique
+Jupyter et ses notebooks
+Avoir la classe avec les objets
+
+
+***********C’est quoi Python ?****************
+Le langage de programmation Python a été créé en 1989 par Guido van Rossum, aux Pays-Bas. Le nom
+Python vient d’un hommage à la série télévisée Monty Python’s Flying Circus dont G. van Rossum est
+fan. La première version publique de ce langage a été publiée en 1991.
+La dernière version de Python est la version 3. Plus précisément, la version 3.7 a été publiée en juin
+2018. Ce cours est basé sur Python 3. La version 2 de de Python est désormais obsolète, dans la mesure
+du possible évitez de l’utiliser.
+La Python Software Foundation est l’association qui organise le développement de Python et anime la
+communauté de développeurs et d’utilisateurs.
+Ce langage de programmation présente de nombreuses caractéristiques intéressantes : - Il est multiplateforme. C’est-à-dire qu’il fonctionne
+ sur de nombreux systèmes d’exploitation : Windows, Mac OS,
+Linux, Android, iOS, depuis les mini-ordinateurs Raspberry Pi jusqu’aux supercalculateurs. - Il est
+gratuit. Vous pouvez l’installer sur autant d’ordinateur que vous voulez. - C’est un langage de haut
+niveau. Il demande relativement peu de connaissance sur le fonctionnement d’un ordinateur pour être
+utilisé. - C’est un langage interprété. Le programme n’a pas besoin de compilé son programme pour
+pouvoir l’utiliser, contrairement à des langages comme le C ou le C++. - Il est orienté objet. C’est-à-dire
+qu’il est possible de créer en Python des entités qui ont un sens dans le monde réel (une cellule, une
+protéine, un atome) avec un certains nombres de fonctionnement et d’interaction. - Il relativement
+simple à prendre en main 12. - Enfin, il est très utilisé en bioinformatique et plus généralement en
+analyse de données.
+
+
+
+
+**************MAIS POUR COMMENCER A EDITEUR , ECRIS NOS SCRYPTE IL NOUS FAUDRA DES OUTILS , MATERIELS 
+1-un oridnateur ou un telephone portable il est preferable de prendre un ordinateur pour faire des scrypt un peu plus complexe
+2-un editeur de code  
+ je definrai l'editeur de code comme notre cahier dans lequel nous ecriverons nos scrypt et chaque feuille de notre page est un fichier
+il en existe plusieurs
+3-être vraimment motiver a programmer car la programmation les debut sont facile mais au fu et a mesure que tu sera confronter a 
+des beugs qui vont te prend plus ou moins assez de temps pour les resoudre
+ si tu n'est pas motiver ou que tu n'aime pas la programmation tu vas abandonner
+ tres vite
+
+mais apres avoir resolu plusieur bug tout ce qui vient c'est de l'experience 
+et tu appriquera les même pratique si tu desir apprendre d'autre  l'anguage de programmation 
+
+
+Python est un langage de programmation populaire et facile à apprendre. Il dispose d'une vaste bibliothèque standard et d'un écosystème de modules tiers qui permettent de développer rapidement des applications dans de nombreux domaines et sur la plupart des plateformes¹. 
+Il existe plusieurs outils de programmation pour Python, tels que des environnements de développement intégrés (IDE), des éditeurs de texte, des outils de gestion de packages, des outils de test, des outils de profilage,
+ des outils de documentation, etc. Voici une liste non exhaustive d'outils de programmation pour Python:
+
+1. **PyCharm**: un IDE populaire pour Python développé par JetBrains. Il est disponible en deux versions: Community (gratuite) et Professional (payante)².
+2. **Visual Studio Code**: un éditeur de code open-source développé par Microsoft. Il est gratuit et dispose d'une extension Python qui permet de développer des applications Python².
+3. **Spyder**: un IDE open-source pour Python qui fournit un environnement de développement scientifique pour Python³.
+4. **Jupyter Notebook**: un environnement de développement interactif open-source pour Python qui permet de créer et de partager des documents qui contiennent du code, des visualisations et du texte³.
+5. **Anaconda**: une distribution Python populaire qui inclut Python, des bibliothèques scientifiques et des outils de gestion de packages³.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

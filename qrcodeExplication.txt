@@ -1,0 +1,23 @@
+CREER VOTRE PROPRE QRCODE
+--------------------------
+
+1-Créez un nouveau docier puis faites clic droit dessus puis l'ouvrir avec votre éditeur de code (VSCODE)
+2-faire windows+R cela ouvrira votre cmd puis taper la commande suivante pour installer la bibliothèque 
+qui va nous permettre de creer notre qrcode
+
+--->pip install qrcode
+
+3-une fois l'installation de la bibliothèque terminé allez dans votre éditeur de code puis 
+4-faite CTRL+N,CTRL+S puis écrivez le nom de votre fichier avec l'extention (MonQr.py)
+5-taper le code suivante
+
+
+
+----------------------------------------------------------------------------------------------------------------
+Si vous avez des préocupations quelquonc n'exitez pas à demander de l'aide car c'est comme ça que vous allez apprendre
+
+whatsapp :chat.whatsapp.com/GBqXpNrHJIDEEGyfeYsXtG
+Facebook : facebook.com/NK2D.codingcity
+telegramm : t.me/ 8VOGH2GXng1kYWZk
+
+youtube :www.youtube.com/@NK2DCoding-City
